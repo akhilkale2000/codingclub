@@ -1,0 +1,12 @@
+NAme:-Akhil Kale 
+      
+
+ Algorithm 
+1] Find the desired filename 
+   ex.jpg file and jpeg file
+2] select file name without its extension 
+3] go to desktop and create backup folder inside that create File name folder.
+   ex.banglore folder and pune folder
+4] Move jpg and jpeg file from review folder to the specific folders created as per 
+   name of file inside backup folder
+    
